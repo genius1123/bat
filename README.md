@@ -1,6 +1,7 @@
 # bat
+
 some windows bat
 
-need 
+need
 cwebp
 pandoc
